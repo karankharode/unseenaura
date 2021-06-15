@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "597506528550",
+    "firebase_url": "https://dark-web-and-darknet.firebaseio.com",
+    "project_id": "dark-web-and-darknet",
+    "storage_bucket": "dark-web-and-darknet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597506528550:android:3a6cfd9ee2ea206c875de7",
+        "android_client_info": {
+          "package_name": "com.bt.unseenaura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597506528550-qrvpfaq5depa630fnjc2tuf9gi5obmed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsO2OGy8fgSqVdvUUJnb51fb2PBoTRDtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597506528550-qrvpfaq5depa630fnjc2tuf9gi5obmed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
